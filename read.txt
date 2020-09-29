@@ -1,3 +1,10 @@
+name:Prasad Pawar
+email: prasadpawar993@gmail.com
+mobile no:7887474372
+
+
+
+
 hello
 
 I have used 3 gestures from the data set.
