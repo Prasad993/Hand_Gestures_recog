@@ -1,0 +1,19 @@
+hello
+
+I have used 3 gestures from the data set.
+3 gestures are:
+    1.palm
+    2.ok
+    3.fist
+I used 800 images of each to train the model and 200 image each to test the model
+total train images are 2400
+total test images are 600
+
+step I= is to preprocessing the images which including scaling,zooming, class,targetsize
+stepII= model bulding using cnn
+step III=compliling and training
+Step IV =prediction
+
+i also make prediction using single images wich were not present in the traning as wll as testing data
+
+note: run this file using google colab with runtime as GPU
